@@ -1,95 +1,102 @@
 let questions = [
     {
-        question: 'Em qual elemento HTML nós colocamos o javascript?',
+        question: 'Quantas cores tem o arco-íris?',
         options: [
-            'tag js',
-            'tag script',
-            'tag scripting',
-            'tag javascript'
-        ],
-        answer: 1
-    },
-    {
-        question: 'Onde é o local certo de colocar o javascript?',
-        options: [
-            'Na tag body',
-            'Na tag head',
-            'Tanto na tag body quanto a head estão corretas'
-        ],
-        answer: 2
-    },
-    {
-        question: 'Qual a sintaxe correta para adicionar um arquivo javascript externo na tag script?',
-        options: [
-            'name="xxx.js"',
-            'src="xxx.js"',
-            'href="xxx.js"'
-        ],
-        answer: 1
-    },
-    {
-        question: 'Um arquivo javascript externo precisa ter a tag script',
-        options: [
-            'Verdade',
-            'Falso'
-        ],
-        answer: 1
-    },
-    {
-        question: 'Como escrever um "Olá Mundo" em um alertbox?',
-        options: [
-            'alertBox("Olá Mundo")',
-            'msgBox("Olá Mundo")',
-            'msg("Olá Mundo")',
-            'alert("Olá Mundo")'
-        ],
-        answer: 3
-    },
-    {
-        question: 'Como você cria uma função no Javascript?',
-        options: [
-            'function:minhaFuncao()',
-            'function = minhaFuncao()',
-            'function minhaFuncao()'
-        ],
-        answer: 2
-    },
-    {
-        question: 'Como chamar uma função chamada "minhaFuncao"?',
-        options: [
-            'call minhaFuncao',
-            'call function minhaFuncao',
-            'minhaFuncao()'
-        ],
-        answer: 2
-    },
-    {
-        question: 'Como escrever uma condicional IF no Javascript?',
-        options: [
-            'if i = 5',
-            'if i == 5 then',
-            'if (i == 5)',
-            'if i = 5 then'
-        ],
-        answer: 2
-    },
-    {
-        question: 'Como fazer um if que executa um código caso "i" for diferente de 5',
-        options: [
-            'if (i != 5)',
-            'if (i <> 5)',
-            'if i <> 5',
-            'if i =! 5 then'
+            'Sete',
+            'Oito',
+            'Nove',
+            'Dez'
         ],
         answer: 0
     },
     {
-        question: 'Como o loop while começa?',
+        question: 'De qual banda de rock que o cantor Freddie Mercury foi vocalista?',
         options: [
-            'while (i <= 10)',
-            'while (i <= 10; i++)',
-            'while i = 1 to 10'
+            'Queen',
+            'The Beatles',
+            'Calypso',
+            'Kiss'
         ],
         answer: 0
+    },
+    {
+        question: 'Qual é o único país onde o animal coala vive?',
+        options: [
+            'Brasil',
+            'Austrália',
+            'Canadá',
+            'Espanha'
+        ],
+        answer: 1
+    },
+    {
+        question: 'Qual é a floresta tropical mais extensa do mundo?',
+        options: [
+            'Floresta Amazônica',
+            'Floresta Negra',
+            'Floresta de Sherwood',
+            'Floresta do Congo'
+        ],
+        answer: 0
+    },
+    {
+        question: 'Qual é o metal mais caro do mundo?',
+        options: [
+            'Ouro',
+            'Platina',
+            'Ródio',
+            'Paládio'
+        ],
+        answer: 2
+    },
+    {
+        question: 'Primogênito é o nome dado a qual filho de um casal?',
+        options: [
+            'Segundo Filho',
+            'Primeiro Filho',
+            'Terceiro Filho',
+            'Filho do meio'
+        ],
+        answer: 1
+    },
+    {
+        question: 'Qual cidade brasileira é conhecida como a Terra da Garoa?',
+        options: [
+            'Curitiba',
+            'São Paulo',
+            'Recife',
+            'Rio de Janeiro'
+        ],
+        answer: 1
+    },
+    {
+        question: 'Qual é o nome do único satélite natural da Terra?',
+        options: [
+            'Lua',
+            'Tupã',
+            'Sol',
+            'Marte'
+        ],
+        answer: 0
+    },
+    {
+        question: 'CQual é a cor do sangue arterial?',
+        options: [
+            'Preto',
+            'Vermelho',
+            'Roxo',
+            'Azul'
+        ],
+        answer: 1
+    },
+    {
+        question: 'Qual é o país mais populoso do mundo?',
+        options: [
+            'Estados Unidos',
+            'Índia',
+            'China',
+            'Brasil'
+        ],
+        answer: 2
     },
 ];
